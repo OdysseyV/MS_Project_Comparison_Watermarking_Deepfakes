@@ -19,3 +19,5 @@
 }
 
 #### FaceSwap: https://github.com/guipleite/CV2-Face-Swap
+
+## Dataset from: https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
