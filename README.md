@@ -1,5 +1,5 @@
 ﻿# MS_Project_Comparison_Watermarking_Deepfakes
-## References: 
+## References: Code based on: 
 #### FaceSigns Watermark: https://github.com/paarthneekhara/FaceSignsDemo
 @article{facesigns2022,
   title={{FaceSigns: Semi-Fragile Neural Watermarks for Media Authentication and Countering Deepfakes}},
