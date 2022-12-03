@@ -1,4 +1,5 @@
 ﻿# MS_Project_Comparison_Watermarking_Deepfakes
+## Paper: 
 ## References: Code based on: 
 #### FaceSigns Watermark: https://github.com/paarthneekhara/FaceSignsDemo
 @article{facesigns2022,
