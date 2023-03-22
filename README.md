@@ -6,7 +6,7 @@ Fake imaging and videos have exploded into popularity over the past 5 years
 since the release of the first deepfake video in 2017. These deepfake media increasingly
 pose a threat to society by questioning the integrity and authenticity of images. This
 project compares two existing watermarking techniques that have developed to not only
-detect deepfake images, but to also defend against them proactively This study compares
+detect deepfake images, but to also defend against them proactively. This study compares
 the two watermarking methods to test which performs better on image manipulation
 detection as well as their ability to prevent deepfake images. The first study, “Neekhara,
 et al., FaceSigns: Semi-Fragile Neural Watermarks for Media Authentication and
